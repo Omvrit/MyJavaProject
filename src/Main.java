@@ -6,6 +6,7 @@ public class Main {
         var time = date.getTime();
         System.out.println(time);
         System.out.println("This is me om ommvrit");
+        System.out.println("Added more");
 
 
     }
